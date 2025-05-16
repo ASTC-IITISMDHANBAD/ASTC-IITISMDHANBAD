@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the official GitHub presence for the **Aerospace & Space Technology Club (ASTC) at IIT (ISM) DHANBAD**.
+I'm the official GitHub presence for the **Aeronautics & Space Technology Club (ASTC) at IIT (ISM) DHANBAD**.
 
 We're a community of students passionate about space, aeronautics, and technological innovation.
 
