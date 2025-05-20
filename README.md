@@ -8,5 +8,5 @@ We're a community of students passionate about space, aeronautics, and technolog
 
 ---
 
-🌐 [Visit Our Website](https://www.astciitism.com)
+🌐 [Visit Our Website](https://astc-iitism.onrender.com/)
 📧 [Contact Us](mailto:aerospace_club@iitism.ac.in)
